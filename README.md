@@ -1,1 +1,2 @@
-# STT_-HP_game
+# Speech-to-text game
+> . . . [In Progress] . . . <
